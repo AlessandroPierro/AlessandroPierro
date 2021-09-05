@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 📚 I'm currently pursuing a [MSc in Data Science and Scientific Computing](https://dssc.units.it/), a joint program by the University of Trieste and [SISSA](https://www.sissa.it/).
+- 🌱 During this program, I'm learning about:
+    - Statistical Methods for Data Science
+    - Foundations of High Performance Computing
+    - Statistical Machine Learning
+    - Computer Vision and Pattern Recognition
+    - Reinforcement Learning
+    - ...
+
 <!--
 **AlessandroPierro/AlessandroPierro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
